@@ -29,7 +29,7 @@ To run this project, you need to have Python installed on your system. Follow th
 
     ```bash
     git clone https://github.com/pyMakSid/EcoToxicityMachineLearning.git
-    cd IR-Spectra-Toxicity-Prediction
+    cd EcoToxicityMachineLearning
     ```
 
 2. Create and activate a virtual environment:
