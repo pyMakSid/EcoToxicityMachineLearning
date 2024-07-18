@@ -2,7 +2,7 @@
 
 # EcoToxicityMachineLearning
 
-![Project Logo](plots/qSAR.png)
+![Project Logo](./plots/qSAR.png)
 
 ## Table of Contents
 - [EcoToxicityMachineLearning](#ecotoxicitymachinelearning)
