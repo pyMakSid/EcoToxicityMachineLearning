@@ -28,7 +28,7 @@ To run this project, you need to have Python installed on your system. Follow th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/IR-Spectra-Toxicity-Prediction.git
+    git clone https://github.com/pyMakSid/EcoToxicityMachineLearning.git
     cd IR-Spectra-Toxicity-Prediction
     ```
 
