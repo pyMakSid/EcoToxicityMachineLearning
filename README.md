@@ -12,7 +12,6 @@
   - [Usage](#usage)
   - [Dataset IR - specta](#dataset-ir---specta)
   - [EcoTOX](#ecotox)
-    - [Example Results](#example-results)
   - [Contributing](#contributing)
   - [License](#license)
   - [Acknowledgements](#acknowledgements)
@@ -71,11 +70,6 @@ Original Paper - Koshelev DS. Expert System for Fourier Transform Infrared Spect
 
 Link to source of EC50 dataset - [ecotox](https://cfpub.epa.gov/ecotox/)
 
-### Example Results
-```plaintext
-XGB Recall: 0.91
-XGB F1-Score: 0.90
-```
 
 ## Contributing
 
