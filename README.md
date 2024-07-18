@@ -55,11 +55,11 @@ To run this project, you need to have Python installed on your system. Follow th
 
 After setting up your environment, you can use the following commands to preprocess the data, train the model, and make predictions.
 
-* Preprocessing Data - `DataPresentation.ipynb`
+* Preprocessing Data - `1. DataPresentation.ipynb`
 
-* Training the Models and SHAP analysis - `Classification.ipynb`
+* Training the Models and SHAP analysis - `2. Classification.ipynb`
 
-* Plotting - `Plots.ipynb`
+* Plotting - `3. Plots.ipynb`
 
 ## Dataset IR - specta
 
